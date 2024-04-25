@@ -3,7 +3,7 @@
 This repository contains a Python implementation of the Harris Corner Detector algorithm. The Harris Corner Detector is a popular method used in computer vision for detecting corners in images.
 ![image](https://github.com/TajnyReddy/Harris-corner-detection-implementation/assets/59600478/80b659f9-c33d-41d1-9fab-78bf29adb368)
 
-### Step-by-step solution:
+### Step-by-step explaination:
 * Convert to Grayscale: Convert the image to grayscale.
 * Calculate Image Derivatives: Compute the image derivatives using Sobel operators.
 * Compute Harris Matrix (M): Calculate the Harris matrix for each pixel.
